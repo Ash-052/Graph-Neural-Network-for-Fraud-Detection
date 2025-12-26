@@ -110,8 +110,6 @@ pip install torch torch_geometric pandas networkx scikit-learn matplotlib
 ## Files
 
 - `fraud_detection_gnn.ipynb`: Complete Jupyter notebook with all code and visualizations
-- `gnn_model.py`: Modular GNN model implementation (optional)
-- `data_preprocessing.py`: Graph construction utilities (optional)
 - `README.md`: This documentation file
 
 ## Future Improvements
@@ -145,8 +143,3 @@ pip install torch torch_geometric pandas networkx scikit-learn matplotlib
 ## Author
 Rahul Chandra (Ash-052)
 
-## License
-MIT License - Feel free to use this code for academic and commercial purposes.
-
-## Acknowledgments
-Built as part of deep learning and machine learning studies at SRM University AP.
