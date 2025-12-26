@@ -134,11 +134,6 @@ pip install torch torch_geometric pandas networkx scikit-learn matplotlib
    - Implement real-time fraud detection
    - Add model monitoring and drift detection
 
-## References
-
-- PyTorch Geometric Documentation: https://pytorch-geometric.readthedocs.io/
-- Graph Neural Networks Tutorial: https://arxiv.org/abs/1901.00596
-- Financial Fraud Detection: https://arxiv.org/abs/2105.13481
 
 ## Author
 Rahul Chandra (Ash-052)
